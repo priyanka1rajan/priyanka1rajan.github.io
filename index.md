@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+---
+layout: page
+---
 
-You can use the [editor on GitHub](https://github.com/priyanka1rajan/priyanka1rajan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<img src='https://sites.google.com/site/priyankarrajangeometry/_/rsrc/1474508803693/home/BayAreaBiking.PNG' style="width:400px;height:225px" align="right">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/priyanka1rajan/priyanka1rajan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I am currently a Visiting Assistant Professor in the mathematics department at University of Notre Dame. I completed my Ph.D under  Fred Wilhelm at University of California, Riverside on Geometry and Topology of Some Fake Projective Spaces. My thesis can be found here.
+Research Interests Global Riemannian Geometry and Differential Topology
+Publications/Preprints
+Alexandrov Spaces with Integral Current Structure (with M. Jaramillo, R. Perales, C. Searle and A. Siffert), to appear in Communications in Analysis and Geometry, 2018.
+Fake 13-Projective Spaces with Cohomogeneity One Actions  (with Chenxu He), to appear in Communications in Analysis and Geometry, 2018.
+Almost nonnegative curvature on some fake RP^6s and RP^14s  (with Fred Wilhelm), Bull. Aust. Math. Soc. 94 (2016), 304-315.
